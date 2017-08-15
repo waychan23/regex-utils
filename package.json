@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/waychan23/regex-utils.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["node", "utility", "regexp"],
+  "author": "waychan23@hotmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/waychan23/regex-utils/issues"
   },
